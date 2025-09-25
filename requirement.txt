@@ -1,0 +1,2 @@
+React native=0.81.4
+gemini=1.5-flash
